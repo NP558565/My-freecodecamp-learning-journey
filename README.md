@@ -1,5 +1,5 @@
 
-You can start by working through their self-paced, browser-based full stack JavaScript curriculum.
+/*You can start by working through their self-paced, browser-based full stack JavaScript curriculum.*/
 
 By working through their curriculum, one we can earn four certifications:
 #1. Front End Certification
