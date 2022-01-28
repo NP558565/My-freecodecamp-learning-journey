@@ -65,7 +65,7 @@ In this Repo you will find my personal freeCodeCamp study notes exercises and pr
 	- Build a Technical Documentation Page
 	- Build a Personal Portfolio Webpage
 
-## 2. Javascript Algorithms And Data Structures Certification (300 hours)⏳
+## 2. Javascript Algorithms And Data Structures Certification (300 hours)✅
 1. Basic JavaScript
 2. ES6
 3. Regular Expressions
