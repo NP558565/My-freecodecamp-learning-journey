@@ -82,7 +82,7 @@ In this Repo you will find my personal freeCodeCamp study notes exercises and pr
 	- Telephone Number Validator
 	- Cash Register
 
-## 3. Front End Libraries Certification (300 hours) 🔜⏳
+## 3. Front End Libraries Certification (300 hours) ⏳
 
 1. Bootstrap
 2. jQuery
