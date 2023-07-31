@@ -20,7 +20,7 @@ The third section introduces you to back end development using Node.js, Express,
 To earn this certification, you'll build 5 APIs and 5 full stack apps.
 
 #4. Full Stack Certification
-The fourth section is where you'll get real-world experience by working on projects for nonprofits. We'll pair you with another camper, an agile project manager, and a stakeholder from a nonprofit organization. Together, you'll plan, build and maintain apps that help that nonprofit carry out its mission more effectively.
+The fourth section is where you'll get real-world experience by working on projects for nonprofits. Freecodecamp will pair you with another camper, an agile project manager, and a stakeholder from a nonprofit organization. Together, you'll plan, build and maintain apps that help that nonprofit carry out its mission more effectively.
 
 For this certification, you'll work on two projects from scratch and then maintain/upgrade two existing projects.
 
