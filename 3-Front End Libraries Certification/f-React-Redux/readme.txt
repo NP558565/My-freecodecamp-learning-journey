@@ -1,0 +1,1 @@
+This folder contains my coursework exercises from React-Redux course
