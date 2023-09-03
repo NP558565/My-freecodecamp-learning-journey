@@ -1,0 +1,1 @@
+This folder contains my coursework and exercises on D3
