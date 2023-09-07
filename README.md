@@ -97,7 +97,7 @@ In this Repo you will find my personal freeCodeCamp study notes exercises and pr
 	- Build a JavaScript Calculator
 	- Build a Pomodoro Clock
 
-## 4. Data Visualization Certification (300 hours) 🔜⏳
+## 4. Data Visualization Certification (300 hours) ⏳
 
 1. Data Visualization with D3
 2. JSON APIs and Ajax
