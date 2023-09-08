@@ -1,7 +1,7 @@
 
 /*You can start by working through their self-paced, browser-based full stack JavaScript curriculum.*/
 
-By working through their curriculum, one we can earn four certifications:
+By working through their curriculum, we can earn four certifications:
 #1. Front End Certification
 The first section will teach you the basics of how webpages work and also introduce you to JavaScript programming.
 
@@ -42,7 +42,9 @@ Functional Programming
 Intermediate Algorithm Scripting
 JavaScript Algorithms & Data Structures
 
-In this Repo you will find my personal freeCodeCamp study notes exercises and projects. .
+In this Repo you will find my personal freeCodeCamp study notes exercises and projects. 
+You might notice that the presentation of my progress here isn't final. Just like coding, I'm constantly evolving. 
+So, expect to see this space transformed into something aesthetically pleasing as I continue my journey.
 
 | Status | Meaning |
 |--|--|
