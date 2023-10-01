@@ -2,7 +2,7 @@
 
 📚 A Journey through Database Technologies
 
-This README documents my experience with the Relational Databases curriculum on freeCodeCamp. I'd like to share how this topic challenged me and what I've learned along the way.
+This documents my experience with the Relational Databases curriculum on freeCodeCamp. I'd like to share how this topic challenged me and what I've learned along the way.
 
 ## Introduction
 
